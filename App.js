@@ -13,7 +13,7 @@ export default class App extends React.Component {
         <SafeAreaView>
         <ScrollView>
           <TitleBar>
-            <Avatar source={require("./assets/avatar.jpg")} />
+            <Avatar source={require("./assets/arturo.jpg")} />
             <Title>Welcome back,</Title>
             <Name>Arturo</Name>
             <NotificationIcon
