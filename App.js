@@ -196,7 +196,6 @@ const courses = [
     logo: require("./assets/logo-figma.png"),
     author: "Meng To",
     avatar: require("./assets/avatar.jpg"),
-    caption:
-      "Complete guide to designing a site using a collaborative design tool"
+    caption: "Complete guide to designing a site using a collaborative design tool"
   }
 ];
